@@ -1,5 +1,5 @@
 ---
-title: "First Post"
+title: "First-Post"
 date: 2025-11-10 #year month day
 categories: [jekyll, digital-garden]
 tags: [welcome, introduction]
