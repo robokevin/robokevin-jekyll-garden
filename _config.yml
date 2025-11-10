@@ -38,7 +38,7 @@ preferences:
 title: "Garden"
 heading: "Kevin Dang"
 description: "A site where I write my thoughts."
-url: "https://yoursite.com"
+url: "https://kevindang.ca"
 baseurl: ""
 
 # Asset Configuration
@@ -57,7 +57,7 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2024 Kevin Dang. Contents under CC-BY-NC"
+  copyright: "© 2025 Kevin Dang. Contents under CC-BY-NC"
   credits:
     enabled: true
     url: "/credits"
