@@ -4,7 +4,7 @@
 
 layout: Post
 permalink: /
-title: Kevin Dang's Garden
+title: Garden
 ---
 
 Welcome to my website. Here, I write about my thoughts, projects, beliefs, and anything else that comes to mind.

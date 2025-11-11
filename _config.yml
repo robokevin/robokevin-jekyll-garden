@@ -35,8 +35,8 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Garden"
-heading: "Kevin Dang"
+title: "Kevin Dang"
+heading: ""
 description: "A site where I write my thoughts."
 url: "https://kevindang.ca"
 baseurl: ""
