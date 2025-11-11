@@ -1,8 +1,12 @@
 ---
-title: "First Post"
-date: 2025-11-10 #year month day
-categories: [jekyll, digital-garden]
-tags: [welcome, introduction]
+title: First Post
+date: 2025-11-10
+categories:
+  - jekyll
+  - digital-garden
+tags:
+  - welcome
+  - introduction
 ---
 
 Today, I set up my personal website using Jekyll and Docker.
