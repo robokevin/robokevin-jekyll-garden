@@ -61,13 +61,13 @@ footer:
   credits:
     enabled: true
     url: "/credits"
-    text: " 🔗Credits "
+    text: " Credits "
   github: 
     url: "https://github.com/robokevin"
     text: " 🔗Github "
   contact: 
     url: "/contact"
-    text: " 🔗Contact "
+    text: " Contact "
   appearances:
     spacer: " ⎯•⎯ "
 
