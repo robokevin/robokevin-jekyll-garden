@@ -32,12 +32,12 @@
 
 /* Light theme variables */
 [data-theme="dark"] {
-  --bg: rgb(243, 243, 243);
-  --bg2: rgb(242, 240, 229);
-  --text: #272727;
-  --title: #1f1f1f;
-  --brand: rgb(58, 169, 159);
-  --border: rgb(230, 228, 217);
+  --bg: #F3F3F3;
+  --bg2: #EBEBEB;
+  --text: #303030;
+  --title: #1d1d1d;
+  --brand: #3ac9b0;
+  --border: #DCDCEB;
 }
 /* I know what I did is terrible (switching colors but it's a bandaid fix for now */
 
