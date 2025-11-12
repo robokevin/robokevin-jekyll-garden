@@ -12,10 +12,18 @@ Setup steps:
 6. Deploy on Netlify.
 7. Setup custom domain on domain registrar.
 
+
+Modifications to theme:
+
+- Added github link to footer
+- Added a appearances variable for spacing between info
+- Added a contact page
+
 Next steps:
 
 1. Figure out how to not have to Bundle install everytime.
 2. How to make it run live reload automatically when I start the Docker container.
-3. Add Github and Discord to the footer.
-4. Make dark-mode the default theme.
+3. Make dark-mode the default theme.
+
+
    

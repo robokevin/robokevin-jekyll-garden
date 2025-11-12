@@ -4,4 +4,5 @@ layout: Post
 permalink: /contact
 ---
 
-In construction.
+
+This page is under construction.
