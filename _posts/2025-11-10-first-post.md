@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: 2025/11/10 - First Post
 date: 2025-11-10
 categories:
   - jekyll

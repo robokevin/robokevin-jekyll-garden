@@ -45,7 +45,7 @@ RUN apt-get -y install git \
 # "As of this writing, use Ruby 3.1.2
 # "Based on: https://talk.jekyllrb.com/t/liquid-4-0-3-tainted/7946/12"
 ENV RBENV_ROOT /usr/local/src/rbenv
-ENV RUBY_VERSION 3.1.2
+ENV RUBY_VERSION 3.2.4
 ENV PATH ${RBENV_ROOT}/bin:${RBENV_ROOT}/shims:$PATH
 
 # "#################################################"
@@ -60,6 +60,7 @@ RUN git clone https://github.com/rbenv/rbenv.git ${RBENV_ROOT} \
 # "Install ruby and set the global version"
 RUN rbenv install ${RUBY_VERSION} \
   && rbenv global ${RUBY_VERSION}
+# lol why does ruby 3.1.2 bundle install so much faster
 
 # "#################################################"
 # "Install the version of Jekyll that GitHub Pages supports"
