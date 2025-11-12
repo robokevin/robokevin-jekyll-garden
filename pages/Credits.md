@@ -28,3 +28,6 @@ The **[Team Obsidian](https://obsidian.md/)** deserves special recognition for c
 ---
 
 *Jekyll Garden is open source and welcomes contributions. If you'd like to help improve the theme, please visit the [GitHub repository](https://github.com/Jekyll-Garden/jekyll-garden.github.io).*
+
+
+Contents under CC-BY-NC

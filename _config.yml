@@ -39,7 +39,7 @@ title: "Garden"
 heading: ""
 description: "A site where I write my thoughts."
 url: "https://kevindang.ca"
-baseurl: ""
+baseurl: "https://kevindang.ca"
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
@@ -57,11 +57,19 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2025 Kevin Dang. Contents under CC-BY-NC"
+  copyright: " © 2025 Kevin Dang "
   credits:
     enabled: true
     url: "/credits"
-    text: "Credits"
+    text: " 🔗Credits "
+  github: 
+    url: "https://github.com/robokevin"
+    text: " 🔗Github "
+  contact: 
+    url: "/contact"
+    text: " 🔗Contact "
+  appearances:
+    spacer: " ⎯•⎯ "
 
 # Collections
 collections:
