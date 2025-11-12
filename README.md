@@ -24,6 +24,7 @@ Next steps:
 1. Figure out how to not have to Bundle install everytime.
 2. How to make it run live reload automatically when I start the Docker container.
 3. Make dark-mode the default theme.
+4. Make tab preview text not have a dash.
 
 
    
